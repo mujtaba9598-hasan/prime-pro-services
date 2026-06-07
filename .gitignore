@@ -1,0 +1,5 @@
+*.zip
+.DS_Store
+Thumbs.db
+_*.png
+__pycache__/
